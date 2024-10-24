@@ -1,0 +1,1 @@
+alter table student add column address VARCHAR(20) default 'N/A'
